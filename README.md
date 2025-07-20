@@ -49,7 +49,7 @@ A **Streamlit web application** that predicts the likelihood of a person having 
 
 ### 🧾 Home Page
 
-![Home Screenshot](screenshots/screenshot1.png)
+![Home Screenshot](https://github.com/AyushMane1229/heart-disease-prediction/blob/eeb0690e7b91373710176137a166b2cfcbc020f4/Screenshot1.png)
 
 ### 🔍 Prediction Result
 
