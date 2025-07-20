@@ -62,7 +62,7 @@ A **Streamlit web application** that predicts the likelihood of a person having 
 1.Clone the repository and navigate into it:
 
 ```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/AyushMane1229/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
